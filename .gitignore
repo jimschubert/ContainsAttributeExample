@@ -1,0 +1,8 @@
+*.suo
+*~
+packages/
+ContainsUnobtrusiveExample/bin/
+ContainsUnobtrusiveExample/bin/*
+ContainsUnobtrusiveExample/obj/
+ContainsUnobtrusiveExample/obj/*
+*.user
